@@ -22,6 +22,7 @@ spring-boot-firestore-demo.iml
 mvnw
 mvnw.cmd
 target
+.mvn
 
 ### NetBeans ###
 /nbproject/private/
